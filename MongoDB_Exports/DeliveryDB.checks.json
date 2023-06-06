@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "647f1b40662519c3c7e4d32f"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 11:40:48 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f1b7de4fdfe541872ba4f"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 11:41:49 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f1bfd037b8037262ef0fb"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 11:43:57 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f27f77a0eb23cc8fe9dc7"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 12:35:03 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f2a169379b61284ccbdc3"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 12:44:06 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f2a8e35635d6301e1d223"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 12:46:06 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f2ae3b4047b9ea9eedf07"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 12:47:31 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f2b7ab4047b9ea9eedf0f"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 12:50:02 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f2dcb99b0fd843afd8bb1"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 12:59:55 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f2f26b24b943ebaeea44d"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 13:05:42 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f3064b510c446a7f8c50e"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 13:11:00 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f3098b510c446a7f8c513"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 13:11:52 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f633622e109c36c76338b"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 16:47:50 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f95863efd198171a04d41"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 20:22:30 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f95873efd198171a04d44"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 20:22:31 GMT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f95d909e02ec56ce5ea24"
+  },
+  "userSession": "487f7b22f68312d2c1bbc93b1aea445banonUser",
+  "createdAt": "Tue, 06 Jun 2023 20:23:53 GMT",
+  "__v": 0
+}]

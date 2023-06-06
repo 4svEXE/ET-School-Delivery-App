@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "npm-init": "cd ./client && npm i",
+    "dev": "cd ./client && yarn dev ",
+    "dev-server": "cd ./server && node server"
+  }
+}

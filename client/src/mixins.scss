@@ -1,0 +1,17 @@
+@mixin TEST_MIXIN($textColor: red) {
+  background-color: rgb(179, 255, 0);
+  color: $textColor;
+}
+
+@mixin grid($cols, $margin) {
+  float: left;
+  background: red;
+  margin-right: $margin;
+  margin-bottom: $margin;
+  min-height: 150px;
+  width: ((100% - (($cols - 1) * $margin)) / $cols);
+
+  &:nth-child(#{$cols}n) {
+    margin-right: 0;
+  }
+}

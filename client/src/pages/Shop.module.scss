@@ -1,0 +1,9 @@
+@import "../variables";
+@import "../mixins";
+
+
+.box:not(.active) {
+  border: 1px solid $border-bg-darker;
+}
+
+

@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "647ce1a48e5fe3fd59f80e87"
+  },
+  "title": "Big Burger",
+  "description": "Veeery big burger for the strong humans!",
+  "price": 150,
+  "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-on-white-background-fresh-hamburger-fastfood-with-beef-and-cheese_90220-1063.jpg?size=626&ext=jpg&ga=GA1.2.2061226830.1685953432&semt=sph\n",
+  "shopID": "647ca85c8e5fe3fd59f80e83",
+  "isAviable": true,
+  "shopTitle": "Mc Donny"
+},
+{
+  "_id": {
+    "$oid": "647ce20d8e5fe3fd59f80e88"
+  },
+  "title": "Burger",
+  "description": "Just a burger!",
+  "price": 120,
+  "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-on-white-background-fresh-hamburger-fastfood-with-beef-and-cheese_90220-1063.jpg?size=626&ext=jpg&ga=GA1.2.2061226830.1685953432&semt=sph",
+  "shopID": "647ca85c8e5fe3fd59f80e83",
+  "isAviable": true
+},
+{
+  "_id": {
+    "$oid": "647ce29c8e5fe3fd59f80e89"
+  },
+  "title": "Small Burger",
+  "description": "Just a burger for the poor peoples!",
+  "price": 20,
+  "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-on-white-background-fresh-hamburger-fastfood-with-beef-and-cheese_90220-1063.jpg?size=626&ext=jpg&ga=GA1.2.2061226830.1685953432&semt=sph",
+  "shopID": "647ca85c8e5fe3fd59f80e83",
+  "isAviable": true
+},
+{
+  "_id": {
+    "$oid": "647ce35a8e5fe3fd59f80e8a"
+  },
+  "title": "Burger El Giganto",
+  "description": "El GIGANTOOO!",
+  "price": 220,
+  "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-on-white-background-fresh-hamburger-fastfood-with-beef-and-cheese_90220-1063.jpg?size=626&ext=jpg&ga=GA1.2.2061226830.1685953432&semt=sph",
+  "shopID": "647ca85c8e5fe3fd59f80e83",
+  "isAviable": false
+},
+{
+  "_id": {
+    "$oid": "647ce3bb8e5fe3fd59f80e8b"
+  },
+  "title": "Icecream",
+  "description": "Icecream!",
+  "price": 220,
+  "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-on-white-background-fresh-hamburger-fastfood-with-beef-and-cheese_90220-1063.jpg?size=626&ext=jpg&ga=GA1.2.2061226830.1685953432&semt=sph",
+  "shopID": "647ca8ab8e5fe3fd59f80e85",
+  "isAviable": false
+},
+{
+  "_id": {
+    "$oid": "647ce3ea8e5fe3fd59f80e8c"
+  },
+  "title": "Icecream2",
+  "description": "Icecream2!",
+  "price": 2220,
+  "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-on-white-background-fresh-hamburger-fastfood-with-beef-and-cheese_90220-1063.jpg?size=626&ext=jpg&ga=GA1.2.2061226830.1685953432&semt=sph",
+  "shopID": "647ca8918e5fe3fd59f80e84",
+  "isAviable": false
+},
+{
+  "_id": {
+    "$oid": "647ce40c8e5fe3fd59f80e8d"
+  },
+  "title": "Icecream3",
+  "description": "Icecream3!",
+  "price": 332220,
+  "image": "https://img.freepik.com/free-photo/tasty-burger-isolated-on-white-background-fresh-hamburger-fastfood-with-beef-and-cheese_90220-1063.jpg?size=626&ext=jpg&ga=GA1.2.2061226830.1685953432&semt=sph",
+  "shopID": "647ca8da8e5fe3fd59f80e86",
+  "isAviable": true
+}]
