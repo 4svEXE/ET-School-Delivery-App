@@ -2,10 +2,11 @@
 
 all consoles open in ET-School-Delivery-App folder
 
-yarn npm-init - to install packages
+1. yarn npm-init - to install packages
 
-in first console: yarn dev - to start client 
-in seconsconsole: yarn dev-server - to start server
+2. in first console: yarn dev - to start client 
+
+3. in seconsconsole: yarn dev-server - to start server
 
 Files to import into mongo are in MongoDB_Exports
 
